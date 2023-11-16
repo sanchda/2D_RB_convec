@@ -7,7 +7,7 @@
 // NOTICE
 // This file was stored by David Sanchez in 2023, based on a recovered hard-drive.  The code almost certainly dates to 2010 (earlier/later).
 // I think I wrote this based on Matlab code by Grady Wright and Greg Barnett, under the supervision of Dave Yuen (and advice + comments from many).
-// That said, I do not recall exactly when or under what conditions this was written and it may have been given to me.
+// That said, I do not recall exactly when or under what conditions this was written and many parts may have been given to me or taken from other academic projects.
 // In whole, in part, or in derivative this code forms the basis of some papers, but I've lost track of which ones.  I don't even know whether this
 // is the most up-to-date such code.
 //
